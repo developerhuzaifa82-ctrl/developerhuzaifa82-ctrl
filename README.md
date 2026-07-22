@@ -7,14 +7,58 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a></code>
-  <code><a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a></code>
-  <code><a href="mailto:YOUR_EMAIL@gmail.com">Email</a></code>
+ <h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://t.me/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 </h5>
 
 <br>
-
-<p align="center">
 Hi 👋, I'm <strong>Huzaifa Ismail</strong>
 <br>
 Frontend Developer from Sudan Su
@@ -83,9 +127,7 @@ Frontend Developer from Sudan Su
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
+<img src="68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d7a756d727564752d616e6b61267468656d653d72656163742d6461726b2662675f636f6c6f723d32303233326126686964655f626f726465723d74727565"/>
 </p>
 
 ---
