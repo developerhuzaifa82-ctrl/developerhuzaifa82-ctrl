@@ -17,7 +17,7 @@
 <p align="center">
 Hi 👋, I'm <strong>Huzaifa Ismail</strong>
 <br>
-Frontend Developer from Egypt 🇪🇬
+Frontend Developer from SODAN SO
 <br><br>
 
 💻 Passionate about building modern, responsive, and user-friendly web applications.
