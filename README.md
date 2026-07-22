@@ -11,6 +11,14 @@
 
 <p align="center">
 
+## ⚡ Fun Fact
+
+- ☕ I can spend hours debugging just to find a missing semicolon.
+- 🎨 I enjoy turning UI designs into responsive, pixel-perfect websites.
+- 🚀 I love learning new frontend technologies and building modern web apps.
+- 🌙 Most of my coding happens late at night.
+- 💡 Clean code and beautiful UI make me happy.
+
 <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
