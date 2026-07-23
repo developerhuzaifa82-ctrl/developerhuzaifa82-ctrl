@@ -7,10 +7,8 @@
 </h1>
 
 <h5 align="center">
- <h2 align="center">🌐 Connect With Me</h2>
-
+    <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
-  
 <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -58,15 +56,13 @@
 </p>
 </h5>
 
-<br>
 Hi 👋, I'm <strong>Huzaifa Ismail</strong>
 <br>
-Frontend Developer from Sudan Su
+Frontend Developer from Sudan su
 <br><br>
 
 💻 Passionate about building modern, responsive, and user-friendly web applications.
 <br>
-
 🚀 Currently improving my React & TypeScript skills.
 <br>
 
