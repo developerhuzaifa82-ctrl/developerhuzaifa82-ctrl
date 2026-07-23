@@ -68,8 +68,12 @@ Frontend Developer from Sudan su
 
 🌱 Learning more about Next.js and advanced frontend architecture.
 <br>
-
-💬 Ask me about HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS.
+- ☕ I can spend hours debugging just to find a missing semicolon.
+- 🎨 I enjoy turning UI designs into responsive, pixel-perfect websites.
+- 🚀 I love learning new frontend technologies and building modern web apps.
+- 🌙 Most of my coding happens late at night.
+- 💡 Clean code and beautiful UI make me happy.
+- 💬 Ask me about HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS.
 <br>
 
 📫 Reach me: <strong>YOUR_EMAIL@gmail.com</strong>
